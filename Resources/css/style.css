@@ -2,3 +2,10 @@ body{
   text-align: center;
   margin: auto;
 }
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+}
